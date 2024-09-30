@@ -1,17 +1,12 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Arthur! 👋
 
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student who loves to work on open-source projects, explore new technologies, and contribute to the developer community.
 
 ## 🚀 About Me
 
-- 🎓 I’m a **Computer Engineering student** at **Universitas Negeri Semarang**
-- 📚 I’m currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator Lab (SEAL)**
-- 🌱 My biggest interests right now are **AI, Data Analysis, and Web Development**
-- 👯 I’m looking to collaborate on **open-source projects or ideas related to AI and Web Development**
-- 🤔 I’m always eager to learn and improve my skills, so feel free to share tips or opportunities!
-- 💬 Ask me about **AI, Data Analysis, Web Development, or anything tech-related**
-- 📫 How to reach me: **[Your contact information or social media links]**
-- ⚡ Fun fact: **I’m always up for a coding challenge or learning new programming languages!**
+- 🎓 I’m a Computer Engineering student at **Universitas Negeri Semarang**
+- 🏫 Currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator La (SEAL)**
+- 💡 My biggest interests right now are in **AI, Data Analysis, and Web Development**
 
 ## 🛠️ Languages and Tools
 
