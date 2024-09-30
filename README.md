@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student who 
 ## 🚀 About Me
 
 - 🎓 I’m a Computer Engineering student at **Universitas Negeri Semarang**
-- 🏫 Currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator La (SEAL)**
+- 🏫 Currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator Lab (SEAL)**
 - 💡 My biggest interests right now are in **AI, Data Analysis, and Web Development**
 
 ## 🛠️ Languages and Tools
@@ -23,15 +23,15 @@ Here are some of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGregorius&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
+![trophy](https://github-profile-trophy.vercel.app/?username=ArthurGregorius)
 
 ## 📈 My GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurGregorius)
 
 ## 🧑‍💻 Connect with Me
 
