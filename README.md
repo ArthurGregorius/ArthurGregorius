@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Arthur! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to work on open-source projects, explore new technologies, and contribute to the developer community.
 
