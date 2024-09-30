@@ -35,6 +35,6 @@ Here are some of the tools and technologies I work with:
 
 ## 🧑‍💻 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/arthur-gregorius-pongoh-125322248/)
 - [Twitter](https://twitter.com/yourusername)
 - [Portfolio Website](https://yourwebsite.com)
