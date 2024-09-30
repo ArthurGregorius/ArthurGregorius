@@ -1,25 +1,30 @@
-# Hi there, I'm Arthur! 👋
+# Hi there, I'm [Your Name]! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to work on open-source projects, explore new technologies, and contribute to the developer community.
+Welcome to my GitHub profile! I'm a passionate Computer Engineering student who loves to work on open-source projects, explore new technologies, and contribute to the developer community.
 
 ## 🚀 About Me
 
-- 🎓 I’m a Computer Engineering student at **Universitas Negeri Semarang**
-- 🏫 Currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator La (SEAL)**
-- 💡 My biggest interests right now are in **AI, Data Analysis, and Web Development**
-- 💻 My most used programming language is **Python**, with an additional focus on **HTML, CSS, and JavaScript**
-
+- 🎓 I’m a **Computer Engineering student** at **Universitas Negeri Semarang**
+- 📚 I’m currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator Lab (SEAL)**
+- 🌱 My biggest interests right now are **AI, Data Analysis, and Web Development**
+- 👯 I’m looking to collaborate on **open-source projects or ideas related to AI and Web Development**
+- 🤔 I’m always eager to learn and improve my skills, so feel free to share tips or opportunities!
+- 💬 Ask me about **AI, Data Analysis, Web Development, or anything tech-related**
+- 📫 How to reach me: **[Your contact information or social media links]**
+- ⚡ Fun fact: **I’m always up for a coding challenge or learning new programming languages!**
 
 ## 🛠️ Languages and Tools
 
 Here are some of the tools and technologies I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+> My most used language is **Python**, but I also work with **HTML, CSS, and JavaScript** for web development.
 
 ## 📊 GitHub Stats
 
@@ -38,4 +43,3 @@ Here are some of the tools and technologies I work with:
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Twitter](https://twitter.com/yourusername)
 - [Portfolio Website](https://yourwebsite.com)
-
