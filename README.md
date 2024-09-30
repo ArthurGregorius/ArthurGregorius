@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to work on op
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m learning **[Technologies/Skills you're learning]**
-- 👯 I’m looking to collaborate on **[Open-source projects or ideas]**
-- 🤔 I’m looking for help with **[Something you're seeking feedback on or guidance]**
-- 💬 Ask me about **[Topics you're knowledgeable about]**
-- 📫 How to reach me: **[Your contact information or links to social media]**
-- ⚡ Fun fact: **[An interesting fact about you]**
+- 🎓 I’m a Computer Engineering student at **Universitas Negeri Semarang**
+- 🏫 Currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator La (SEAL)**
+- 💡 My biggest interests right now are in **AI, Data Analysis, and Web Development**
+- 💻 My most used programming language is **Python**, with an additional focus on **HTML, CSS, and JavaScript**
+
 
 ## 🛠️ Languages and Tools
 
