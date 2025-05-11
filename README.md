@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student who 
 
 - 🎓 I’m a **Computer Engineering student** at **Universitas Negeri Semarang**
 - 🌍 I'm from **Indonesia**
-- 📚 I’m currently enrolled in the **AWS Certification for Fullstack Cloud Engineer** at **Social Economic Accelerator Lab (SEAL)**
+- 📚 I’m currently enrolled in the **Software Engineer Intern** at **Serpihan Tech Solution**
 - 🌱 My biggest interests right now are **AI, Data Analysis, and Web Development**
 - 💬 I speak **English** (Professional proficiency) and **Indonesian** (Native speaker)
 - 👯 I’m looking to collaborate on **open-source projects or ideas related to AI and Web Development**
